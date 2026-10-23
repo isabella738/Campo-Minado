@@ -1,6 +1,6 @@
 # Campo-Minado
 Clássico jogo de Campo Minado, para terminal
 
-Use awsd para se movimentar entre as casas. Use k para cavar e l para marcar uma bomba
+Use awsd para se movimentar entre as casas. Use k para cavar e j para marcar uma bomba
 
-Funciona em Linux
+Funciona em Linux e Windows
