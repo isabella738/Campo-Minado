@@ -22,7 +22,9 @@
 
         tcsetattr(STDIN_FILENO, TCSANOW, &novo_terminal);
     }
-
+#else
+   #include <windows.h>
+   #include <conio.h>
 #endif
 
 #define VERDE  "\033[32m"
